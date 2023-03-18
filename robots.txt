@@ -1,0 +1,3 @@
+Sitemap: https://XN--80AFF5ATL.XN--P1AI/sitemap.xml
+User-agent: *
+Allow: /
